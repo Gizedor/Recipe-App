@@ -40,12 +40,13 @@ header input {
     padding: 0.5rem 1rem;
     border: none;
     border-radius: 3px;
+    font-family: inherit;
 }
 
 header button {
     background-color: transparent;
     border: none;
-    color: #aaa;
+    color: rgb(75, 76, 143);
     font-size: 1.5rem;
     margin-left: 10px;
 }
@@ -54,7 +55,7 @@ header button {
 /* favorite-meal */
 
 .fav-container {
-    padding: 1rem;
+    padding: 0.25rem 1rem;
     text-align: center;
     background-color: rgb(244, 221, 253);
 }
@@ -129,7 +130,7 @@ header button {
     border: none;
     background-color: transparent;
     font-size: 1.2rem;
-    color: rgb(151, 28, 28);
+    color: rgb(114, 105, 105);
     cursor: pointer;
 }
 
